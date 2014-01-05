@@ -1,0 +1,160 @@
+fileFormatVersion: 1
+guid: 9a768820035396f48883ee8697955b55
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    polySurface1:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    transform1:
+    - 100004
+    - 400004
+    transform2:
+    - 100006
+    - 400006
+    transform3:
+    - 100008
+    - 400008
+    transform4:
+    - 100010
+    - 400010
+    transform5:
+    - 100012
+    - 400012
+    transform6:
+    - 100014
+    - 400014
+    transform7:
+    - 100016
+    - 400016
+    transform8:
+    - 100018
+    - 400018
+    transform9:
+    - 100020
+    - 400020
+    transform10:
+    - 100022
+    - 400022
+    transform11:
+    - 100024
+    - 400024
+    transform12:
+    - 100026
+    - 400026
+    transform13:
+    - 100028
+    - 400028
+    transform14:
+    - 100030
+    - 400030
+    transform15:
+    - 100032
+    - 400032
+    transform16:
+    - 100034
+    - 400034
+    transform17:
+    - 100036
+    - 400036
+    transform18:
+    - 100038
+    - 400038
+    tech_dude01:polySurface22:
+    - 100040
+    - 400040
+    tech_dude01:polySurface5:
+    - 100042
+    - 400042
+    tech_dude01:polySurface18:
+    - 100044
+    - 400044
+    tech_dude01:polySurface19:
+    - 100046
+    - 400046
+    tech_dude01:polySurface20:
+    - 100048
+    - 400048
+    tech_dude01:polySurface12:
+    - 100050
+    - 400050
+    tech_dude01:polySurface10:
+    - 100052
+    - 400052
+    tech_dude01:pCube2:
+    - 100054
+    - 400054
+    tech_dude01:polySurface15:
+    - 100056
+    - 400056
+    tech_dude01:polySurface14:
+    - 100058
+    - 400058
+    tech_dude01:polySurface13:
+    - 100060
+    - 400060
+    tech_dude01:polySurface11:
+    - 100062
+    - 400062
+    tech_dude01:polySurface17:
+    - 100064
+    - 400064
+    tech_dude01:polySurface4:
+    - 100066
+    - 400066
+    tech_dude01:polySurface2:
+    - 100068
+    - 400068
+    tech_dude01:polySurface23:
+    - 100070
+    - 400070
+    tech_dude01:polySurface21:
+    - 100072
+    - 400072
+    tech_dude01:polySurface8:
+    - 100074
+    - 400074
+    tech_dude01:polySurface9:
+    - 100076
+    - 400076
+    tech_dude01:polySurface7:
+    - 100078
+    - 400078
+    tech_dude01:polySurface6:
+    - 100080
+    - 400080
+    transform19:
+    - 100082
+    - 400082
+    transform20:
+    - 100084
+    - 400084
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface1

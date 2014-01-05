@@ -1,0 +1,296 @@
+fileFormatVersion: 1
+guid: c18516d560dd3f446874f3dce1cd8075
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Run:
+        firstFrame: 2
+        lastFrame: 23
+        loop: 0
+        wrapMode: 0
+      AttackOne:
+        firstFrame: 25
+        lastFrame: 36
+        loop: 0
+        wrapMode: 1
+      AttackTwo:
+        firstFrame: 37
+        lastFrame: 48
+        loop: 0
+        wrapMode: 0
+      Whip:
+        firstFrame: 49
+        lastFrame: 76
+        loop: 0
+        wrapMode: 0
+      Rush:
+        firstFrame: 77
+        lastFrame: 80
+        loop: 0
+        wrapMode: 0
+      GroundSlam:
+        firstFrame: 81
+        lastFrame: 94
+        loop: 0
+        wrapMode: 0
+      Shield:
+        firstFrame: 95
+        lastFrame: 100
+        loop: 0
+        wrapMode: 0
+      Idle:
+        firstFrame: 102
+        lastFrame: 129
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    unwrapping_03:unwrapping:joint3:
+    - 100000
+    - 400000
+    unwrapping_03:unwrapping:joint1:
+    - 100002
+    - 400002
+    unwrapping_03:unwrapping:joint2:
+    - 100004
+    - 400004
+    unwrapping_03:unwrapping:joint9:
+    - 100006
+    - 400006
+    unwrapping_03:unwrapping:joint4:
+    - 100008
+    - 400008
+    unwrapping_03:unwrapping:joint7:
+    - 100010
+    - 400010
+    unwrapping_03:unwrapping:joint8:
+    - 100012
+    - 400012
+    unwrapping_03:unwrapping:joint6:
+    - 100014
+    - 400014
+    unwrapping_03:unwrapping:joint5:
+    - 100016
+    - 400016
+    polySurface214:
+    - 100018
+    - 400018
+    //RootNode:
+    - 100020
+    - 400020
+    - 11100000
+    unwrapping_03:unwrapping:nurbsCircle43:
+    - 100022
+    - 400022
+    unwrapping_03:unwrapping:nurbsCircle36:
+    - 100024
+    - 400024
+    unwrapping_03:unwrapping:nurbsCircle68:
+    - 100026
+    - 400026
+    unwrapping_03:unwrapping:nurbsCircle40:
+    - 100028
+    - 400028
+    unwrapping_03:unwrapping:joint47:
+    - 100030
+    - 400030
+    unwrapping_03:unwrapping:nurbsCircle39:
+    - 100032
+    - 400032
+    unwrapping_03:unwrapping:joint16:
+    - 100034
+    - 400034
+    unwrapping_03:unwrapping:Left_Shoulder:
+    - 100036
+    - 400036
+    unwrapping_03:unwrapping:Left_FingerJoint1:
+    - 100038
+    - 400038
+    unwrapping_03:unwrapping:Left_Forearm:
+    - 100040
+    - 400040
+    unwrapping_03:unwrapping:joint46:
+    - 100042
+    - 400042
+    unwrapping_03:unwrapping:Left_FingerJoint2:
+    - 100044
+    - 400044
+    unwrapping_03:unwrapping:joint43:
+    - 100046
+    - 400046
+    unwrapping_03:unwrapping:joint17:
+    - 100048
+    - 400048
+    unwrapping_03:unwrapping:joint40:
+    - 100050
+    - 400050
+    unwrapping_03:unwrapping:Left_Wrist:
+    - 100052
+    - 400052
+    unwrapping_03:unwrapping:joint42:
+    - 100054
+    - 400054
+    unwrapping_03:unwrapping:Left_Thumb:
+    - 100056
+    - 400056
+    unwrapping_03:unwrapping:joint44:
+    - 100058
+    - 400058
+    unwrapping_03:unwrapping:joint45:
+    - 100060
+    - 400060
+    unwrapping_03:unwrapping:joint48:
+    - 100062
+    - 400062
+    unwrapping_03:unwrapping:nurbsCircle47:
+    - 100064
+    - 400064
+    unwrapping_03:unwrapping:nurbsCircle46:
+    - 100066
+    - 400066
+    unwrapping_03:unwrapping:joint50:
+    - 100068
+    - 400068
+    unwrapping_03:unwrapping:joint49:
+    - 100070
+    - 400070
+    unwrapping_03:unwrapping:nurbsCircle67:
+    - 100072
+    - 400072
+    unwrapping_03:unwrapping:nurbsCircle66:
+    - 100074
+    - 400074
+    unwrapping_03:unwrapping:nurbsCircle63:
+    - 100076
+    - 400076
+    unwrapping_03:unwrapping:nurbsCircle64:
+    - 100078
+    - 400078
+    unwrapping_03:unwrapping:nurbsCircle65:
+    - 100080
+    - 400080
+    unwrapping_03:unwrapping:joint52:
+    - 100082
+    - 400082
+    unwrapping_03:unwrapping:joint51:
+    - 100084
+    - 400084
+    unwrapping_03:unwrapping:joint10:
+    - 100086
+    - 400086
+    unwrapping_03:unwrapping:joint53:
+    - 100088
+    - 400088
+    unwrapping_03:unwrapping:nurbsCircle42:
+    - 100090
+    - 400090
+    unwrapping_03:unwrapping:nurbsCircle37:
+    - 100092
+    - 400092
+    unwrapping_03:unwrapping:nurbsCircle41:
+    - 100094
+    - 400094
+    unwrapping_03:unwrapping:nurbsCircle34:
+    - 100096
+    - 400096
+    unwrapping_03:unwrapping:nurbsCircle44:
+    - 100098
+    - 400098
+    unwrapping_03:unwrapping:nurbsCircle38:
+    - 100100
+    - 400100
+    unwrapping_03:unwrapping:nurbsCircle45:
+    - 100102
+    - 400102
+    unwrapping_03:unwrapping:nurbsCircle35:
+    - 100104
+    - 400104
+    unwrapping_03:unwrapping:nurbsCircle70:
+    - 100106
+    - 400106
+    unwrapping_03:unwrapping:nurbsCircle69:
+    - 100108
+    - 400108
+    unwrapping_03:unwrapping:joint12:
+    - 100110
+    - 400110
+    unwrapping_03:unwrapping:joint34:
+    - 100112
+    - 400112
+    - 13700000
+    unwrapping_03:unwrapping:joint15:
+    - 100114
+    - 400114
+    unwrapping_03:unwrapping:joint13:
+    - 100116
+    - 400116
+    unwrapping_03:unwrapping:nurbsCircle52:
+    - 100118
+    - 400118
+    unwrapping_03:unwrapping:nurbsCircle49:
+    - 100120
+    - 400120
+    unwrapping_03:unwrapping:nurbsCircle60:
+    - 100122
+    - 400122
+    unwrapping_03:unwrapping:nurbsCircle59:
+    - 100124
+    - 400124
+    unwrapping_03:unwrapping:nurbsCircle56:
+    - 100126
+    - 400126
+    unwrapping_03:unwrapping:nurbsCircle55:
+    - 100128
+    - 400128
+    unwrapping_03:unwrapping:nurbsCircle58:
+    - 100130
+    - 400130
+    unwrapping_03:unwrapping:nurbsCircle57:
+    - 100132
+    - 400132
+    unwrapping_03:unwrapping:nurbsCircle62:
+    - 100134
+    - 400134
+    unwrapping_03:unwrapping:nurbsCircle61:
+    - 100136
+    - 400136
+    unwrapping_03:unwrapping:nurbsCircle54:
+    - 100138
+    - 400138
+    unwrapping_03:unwrapping:nurbsCircle53:
+    - 100140
+    - 400140
+    unwrapping_03:unwrapping:nurbsCircle51:
+    - 100142
+    - 400142
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface214
+    7400000: Arc_ANIMATED_01 //// Arch_Good
+    7400002: Run //// Arch_Good
+    7400004: AttackOne //// Arch_Good
+    7400006: AttackTwo //// Arch_Good
+    7400008: Whip //// Arch_Good
+    7400010: Rush //// Arch_Good
+    7400012: GroundSlam //// Arch_Good
+    7400014: Shield //// Arch_Good
+    7400016: Idle //// Arch_Good

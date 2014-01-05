@@ -1,0 +1,382 @@
+fileFormatVersion: 1
+guid: 3be30bb308558d94f8def92580c1df72
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface103:
+    - 100000
+    - 400000
+    polySurface210:
+    - 100002
+    - 400002
+    polySurface209:
+    - 100004
+    - 400004
+    polySurface213:
+    - 100006
+    - 400006
+    transform37:
+    - 100008
+    - 400008
+    transform36:
+    - 100010
+    - 400010
+    polySurface214:
+    - 100012
+    - 400012
+    - 3300000
+    - 2300000
+    //RootNode:
+    - 100014
+    - 400014
+    - 11100000
+    transform38:
+    - 100016
+    - 400016
+    transform34:
+    - 100018
+    - 400018
+    polySurface212:
+    - 100020
+    - 400020
+    polySurface211:
+    - 100022
+    - 400022
+    transform35:
+    - 100024
+    - 400024
+    polySurface207:
+    - 100026
+    - 400026
+    transform21:
+    - 100028
+    - 400028
+    polySurface99:
+    - 100030
+    - 400030
+    polySurface98:
+    - 100032
+    - 400032
+    polySurface94:
+    - 100034
+    - 400034
+    polySurface93:
+    - 100036
+    - 400036
+    transform33:
+    - 100038
+    - 400038
+    polySurface65:
+    - 100040
+    - 400040
+    polySurface53:
+    - 100042
+    - 400042
+    - 3300002
+    - 2300002
+    polySurface50:
+    - 100044
+    - 400044
+    - 3300004
+    - 2300004
+    polySurface44:
+    - 100046
+    - 400046
+    - 3300006
+    - 2300006
+    polySurface43:
+    - 100048
+    - 400048
+    - 3300008
+    - 2300008
+    polySurface42:
+    - 100050
+    - 400050
+    - 3300010
+    - 2300010
+    polySurface41:
+    - 100052
+    - 400052
+    - 3300012
+    - 2300012
+    polySurface40:
+    - 100054
+    - 400054
+    - 3300014
+    - 2300014
+    polySurface31:
+    - 100056
+    - 400056
+    pCylinder15:
+    - 100058
+    - 400058
+    polySurface25:
+    - 100060
+    - 400060
+    polySurface24:
+    - 100062
+    - 400062
+    polySurface2:
+    - 100064
+    - 400064
+    pCylinder7:
+    - 100066
+    - 400066
+    group:
+    - 100068
+    - 400068
+    unwrapping_03:unwrapping:joint1:
+    - 100070
+    - 400070
+    unwrapping_03:unwrapping:joint2:
+    - 100072
+    - 400072
+    unwrapping_03:unwrapping:joint6:
+    - 100074
+    - 400074
+    unwrapping_03:unwrapping:joint3:
+    - 100076
+    - 400076
+    unwrapping_03:unwrapping:joint7:
+    - 100078
+    - 400078
+    unwrapping_03:unwrapping:joint8:
+    - 100080
+    - 400080
+    unwrapping_03:unwrapping:joint9:
+    - 100082
+    - 400082
+    unwrapping_03:unwrapping:joint4:
+    - 100084
+    - 400084
+    unwrapping_03:unwrapping:joint5:
+    - 100086
+    - 400086
+    unwrapping_03:unwrapping:joint17:
+    - 100088
+    - 400088
+    unwrapping_03:unwrapping:nurbsCircle9:
+    - 100090
+    - 400090
+    unwrapping_03:unwrapping:nurbsCircle22:
+    - 100092
+    - 400092
+    unwrapping_03:unwrapping:polySurface1:
+    - 100094
+    - 400094
+    unwrapping_04:unwrapping:nurbsCircle46:
+    - 100096
+    - 400096
+    unwrapping_03:unwrapping:nurbsCircle3:
+    - 100098
+    - 400098
+    unwrapping_03:unwrapping:Arc:transform2:
+    - 100100
+    - 400100
+    unwrapping_03:unwrapping:joint26:
+    - 100102
+    - 400102
+    unwrapping_03:unwrapping:nurbsCircle4:
+    - 100104
+    - 400104
+    unwrapping_04:unwrapping:nurbsCircle47:
+    - 100106
+    - 400106
+    unwrapping_03:unwrapping:nurbsCircle27:
+    - 100108
+    - 400108
+    unwrapping_03:unwrapping:nurbsCircle15:
+    - 100110
+    - 400110
+    unwrapping_03:unwrapping:nurbsCircle5:
+    - 100112
+    - 400112
+    unwrapping_03:unwrapping:joint16:
+    - 100114
+    - 400114
+    unwrapping_03:unwrapping:nurbsCircle2:
+    - 100116
+    - 400116
+    unwrapping_03:unwrapping:joint22:
+    - 100118
+    - 400118
+    unwrapping_03:unwrapping:nurbsCircle6:
+    - 100120
+    - 400120
+    unwrapping_03:unwrapping:joint31:
+    - 100122
+    - 400122
+    unwrapping_03:unwrapping:nurbsCircle18:
+    - 100124
+    - 400124
+    unwrapping_03:unwrapping:joint15:
+    - 100126
+    - 400126
+    unwrapping_03:unwrapping:nurbsCircle1:
+    - 100128
+    - 400128
+    unwrapping_03:unwrapping:nurbsCircle28:
+    - 100130
+    - 400130
+    unwrapping_04:unwrapping:nurbsCircle44:
+    - 100132
+    - 400132
+    unwrapping_03:unwrapping:nurbsCircle26:
+    - 100134
+    - 400134
+    unwrapping_03:unwrapping:nurbsCircle20:
+    - 100136
+    - 400136
+    unwrapping_03:unwrapping:nurbsCircle32:
+    - 100138
+    - 400138
+    unwrapping_03:unwrapping:nurbsCircle24:
+    - 100140
+    - 400140
+    unwrapping_03:unwrapping:nurbsCircle31:
+    - 100142
+    - 400142
+    unwrapping_03:unwrapping:nurbsCircle25:
+    - 100144
+    - 400144
+    unwrapping_03:unwrapping:nurbsCircle7:
+    - 100146
+    - 400146
+    unwrapping_03:unwrapping:nurbsCircle8:
+    - 100148
+    - 400148
+    unwrapping_03:unwrapping:joint12:
+    - 100150
+    - 400150
+    unwrapping_04:unwrapping:nurbsCircle45:
+    - 100152
+    - 400152
+    unwrapping_03:unwrapping:joint32:
+    - 100154
+    - 400154
+    unwrapping_03:unwrapping:Arc:pCube1:
+    - 100156
+    - 400156
+    unwrapping_03:unwrapping:joint33:
+    - 100158
+    - 400158
+    unwrapping_03:unwrapping:nurbsCircle14:
+    - 100160
+    - 400160
+    unwrapping_03:unwrapping:nurbsCircle16:
+    - 100162
+    - 400162
+    unwrapping_03:unwrapping:nurbsCircle21:
+    - 100164
+    - 400164
+    unwrapping_03:unwrapping:joint30:
+    - 100166
+    - 400166
+    unwrapping_03:unwrapping:nurbsCircle30:
+    - 100168
+    - 400168
+    unwrapping_03:unwrapping:joint25:
+    - 100170
+    - 400170
+    unwrapping_03:unwrapping:nurbsCircle23:
+    - 100172
+    - 400172
+    unwrapping_03:unwrapping:nurbsCircle19:
+    - 100174
+    - 400174
+    unwrapping_03:unwrapping:joint29:
+    - 100176
+    - 400176
+    unwrapping_03:unwrapping:joint24:
+    - 100178
+    - 400178
+    unwrapping_03:unwrapping:joint13:
+    - 100180
+    - 400180
+    unwrapping_03:unwrapping:Arc:pCube6:
+    - 100182
+    - 400182
+    unwrapping_03:unwrapping:Arc:transform1:
+    - 100184
+    - 400184
+    unwrapping_03:unwrapping:joint21:
+    - 100186
+    - 400186
+    unwrapping_03:unwrapping:joint20:
+    - 100188
+    - 400188
+    unwrapping_03:unwrapping:Arc:pCylinder1:
+    - 100190
+    - 400190
+    unwrapping_03:unwrapping:joint10:
+    - 100192
+    - 400192
+    unwrapping_03:unwrapping:joint28:
+    - 100194
+    - 400194
+    unwrapping_03:unwrapping:joint27:
+    - 100196
+    - 400196
+    unwrapping_03:unwrapping:joint18:
+    - 100198
+    - 400198
+    unwrapping_03:unwrapping:nurbsCircle29:
+    - 100200
+    - 400200
+    unwrapping_03:unwrapping:joint19:
+    - 100202
+    - 400202
+    unwrapping_03:unwrapping:joint23:
+    - 100204
+    - 400204
+    unwrapping_03:unwrapping:nurbsCircle11:
+    - 100206
+    - 400206
+    unwrapping_03:unwrapping:nurbsCircle17:
+    - 100208
+    - 400208
+    unwrapping_03:unwrapping:nurbsCircle13:
+    - 100210
+    - 400210
+    unwrapping_03:unwrapping:nurbsCircle10:
+    - 100212
+    - 400212
+    unwrapping_03:unwrapping:nurbsCircle12:
+    - 100214
+    - 400214
+    unwrapping_03:unwrapping:joint11:
+    - 100216
+    - 400216
+    - 13700000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface40
+    4300002: polySurface41
+    4300004: polySurface42
+    4300006: polySurface43
+    4300008: polySurface44
+    4300010: polySurface50
+    4300012: polySurface53
+    4300014: polySurface209
+    4300016: polySurface214
+    7400000: Take 001 //// Tech_ANIMATED

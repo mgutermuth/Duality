@@ -1,0 +1,132 @@
+fileFormatVersion: 1
+guid: 6a30f2ce83cc2514487f6cf43577e03c
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    animating_01:joint22:
+    - 100000
+    - 400000
+    animating_01:joint17:
+    - 100002
+    - 400002
+    animating_01:joint10:
+    - 100004
+    - 400004
+    animating_01:joint26:
+    - 100006
+    - 400006
+    animating_01:polySurface31:
+    - 100008
+    - 400008
+    animating_01:joint24:
+    - 100010
+    - 400010
+    animating_01:joint2:
+    - 100012
+    - 400012
+    animating_01:joint25:
+    - 100014
+    - 400014
+    animating_01:joint15:
+    - 100016
+    - 400016
+    animating_01:joint8:
+    - 100018
+    - 400018
+    animating_01:joint32:
+    - 100020
+    - 400020
+    animating_01:joint29:
+    - 100022
+    - 400022
+    animating_01:joint6:
+    - 100024
+    - 400024
+    animating_01:joint33:
+    - 100026
+    - 400026
+    animating_01:joint5:
+    - 100028
+    - 400028
+    animating_01:joint13:
+    - 100030
+    - 400030
+    animating_01:joint23:
+    - 100032
+    - 400032
+    animating_01:joint27:
+    - 100034
+    - 400034
+    animating_01:joint12:
+    - 100036
+    - 400036
+    animating_01:joint31:
+    - 100038
+    - 400038
+    animating_01:joint3:
+    - 100040
+    - 400040
+    animating_01:joint21:
+    - 100042
+    - 400042
+    animating_01:joint28:
+    - 100044
+    - 400044
+    animating_01:joint18:
+    - 100046
+    - 400046
+    animating_01:joint9:
+    - 100048
+    - 400048
+    animating_01:joint7:
+    - 100050
+    - 400050
+    animating_01:joint30:
+    - 100052
+    - 400052
+    animating_01:joint16:
+    - 100054
+    - 400054
+    animating_01:joint20:
+    - 100056
+    - 400056
+    animating_01:joint1:
+    - 100058
+    - 400058
+    animating_01:joint19:
+    - 100060
+    - 400060
+    animating_01:joint4:
+    - 100062
+    - 400062
+    animating_01:joint11:
+    - 100064
+    - 400064
+    - 13700000
+    //RootNode:
+    - 100066
+    - 400066
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: animating_01:polySurface31

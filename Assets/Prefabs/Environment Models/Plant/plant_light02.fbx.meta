@@ -1,0 +1,112 @@
+fileFormatVersion: 1
+guid: 85e7c76e4b12ac74fb646a2096c68ea2
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface292:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    curve5:
+    - 100002
+    - 400002
+    polySurface293:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    polySurface289:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    curve4:
+    - 100008
+    - 400008
+    polySurface290:
+    - 100010
+    - 400010
+    - 3300006
+    - 2300006
+    polySurface291:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    polySurface287:
+    - 100014
+    - 400014
+    - 3300010
+    - 2300010
+    polySurface229:
+    - 100016
+    - 400016
+    polySurface294:
+    - 100018
+    - 400018
+    - 3300012
+    - 2300012
+    polySurface295:
+    - 100020
+    - 400020
+    - 3300014
+    - 2300014
+    //RootNode:
+    - 100022
+    - 400022
+    - 11100000
+    polySurface270:
+    - 100024
+    - 400024
+    polySurface296:
+    - 100026
+    - 400026
+    - 3300016
+    - 2300016
+    polySurface298:
+    - 100028
+    - 400028
+    - 3300018
+    - 2300018
+    polySurface237:
+    - 100030
+    - 400030
+    polySurface231:
+    - 100032
+    - 400032
+    curve1:
+    - 100034
+    - 400034
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface287
+    4300002: polySurface289
+    4300004: polySurface290
+    4300006: polySurface291
+    4300008: polySurface292
+    4300010: polySurface293
+    4300012: polySurface294
+    4300014: polySurface295
+    4300016: polySurface296
+    4300018: polySurface298

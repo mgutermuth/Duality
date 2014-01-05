@@ -1,0 +1,217 @@
+fileFormatVersion: 1
+guid: 1de6821fbe20b484ea71f8da93dfec37
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    basemesh_arshlevon_toes:lowman_toes:
+    - 100000
+    - 400000
+    nurbsCircle17:
+    - 100002
+    - 400002
+    nurbsCircle27:
+    - 100004
+    - 400004
+    nurbsCircle18:
+    - 100006
+    - 400006
+    nurbsCircle21:
+    - 100008
+    - 400008
+    //RootNode:
+    - 100010
+    - 400010
+    - 11100000
+    nurbsCircle26:
+    - 100012
+    - 400012
+    nurbsCircle20:
+    - 100014
+    - 400014
+    nurbsCircle15:
+    - 100016
+    - 400016
+    nurbsCircle22:
+    - 100018
+    - 400018
+    nurbsCircle23:
+    - 100020
+    - 400020
+    nurbsCircle25:
+    - 100022
+    - 400022
+    nurbsCircle24:
+    - 100024
+    - 400024
+    nurbsCircle19:
+    - 100026
+    - 400026
+    nurbsCircle16:
+    - 100028
+    - 400028
+    nurbsCircle14:
+    - 100030
+    - 400030
+    nurbsCircle29:
+    - 100032
+    - 400032
+    nurbsCircle28:
+    - 100034
+    - 400034
+    nurbsCircle30:
+    - 100036
+    - 400036
+    nurbsCircle13:
+    - 100038
+    - 400038
+    nurbsCircle12:
+    - 100040
+    - 400040
+    nurbsCircle1:
+    - 100042
+    - 400042
+    nurbsCircle2:
+    - 100044
+    - 400044
+    nurbsCircle3:
+    - 100046
+    - 400046
+    nurbsCircle7:
+    - 100048
+    - 400048
+    nurbsCircle10:
+    - 100050
+    - 400050
+    nurbsCircle6:
+    - 100052
+    - 400052
+    nurbsCircle5:
+    - 100054
+    - 400054
+    nurbsCircle4:
+    - 100056
+    - 400056
+    nurbsCircle8:
+    - 100058
+    - 400058
+    nurbsCircle9:
+    - 100060
+    - 400060
+    nurbsCircle11:
+    - 100062
+    - 400062
+    joint10:
+    - 100064
+    - 400064
+    joint9:
+    - 100066
+    - 400066
+    joint8:
+    - 100068
+    - 400068
+    joint7:
+    - 100070
+    - 400070
+    joint6:
+    - 100072
+    - 400072
+    joint5:
+    - 100074
+    - 400074
+    joint4:
+    - 100076
+    - 400076
+    joint3:
+    - 100078
+    - 400078
+    joint2:
+    - 100080
+    - 400080
+    joint1:
+    - 100082
+    - 400082
+    joint24:
+    - 100084
+    - 400084
+    joint23:
+    - 100086
+    - 400086
+    joint22:
+    - 100088
+    - 400088
+    joint21:
+    - 100090
+    - 400090
+    joint20:
+    - 100092
+    - 400092
+    joint19:
+    - 100094
+    - 400094
+    joint18:
+    - 100096
+    - 400096
+    joint17:
+    - 100098
+    - 400098
+    joint16:
+    - 100100
+    - 400100
+    joint15:
+    - 100102
+    - 400102
+    joint14:
+    - 100104
+    - 400104
+    joint13:
+    - 100106
+    - 400106
+    joint12:
+    - 100108
+    - 400108
+    joint11:
+    - 100110
+    - 400110
+    joint30:
+    - 100112
+    - 400112
+    joint29:
+    - 100114
+    - 400114
+    joint28:
+    - 100116
+    - 400116
+    joint27:
+    - 100118
+    - 400118
+    joint26:
+    - 100120
+    - 400120
+    joint25:
+    - 100122
+    - 400122
+    - 13700000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: basemesh_arshlevon_toes:lowman_toes
+    7400000: Take 001 //// small_enemy

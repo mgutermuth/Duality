@@ -1,0 +1,554 @@
+fileFormatVersion: 1
+guid: f6add1ffdce0dd541ae2cb25d021a04b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 1
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface103:
+    - 100000
+    - 400000
+    polySurface210:
+    - 100002
+    - 400002
+    transform35:
+    - 100004
+    - 400004
+    transform36:
+    - 100006
+    - 400006
+    transform37:
+    - 100008
+    - 400008
+    polySurface213:
+    - 100010
+    - 400010
+    transform38:
+    - 100012
+    - 400012
+    //RootNode:
+    - 100014
+    - 400014
+    - 11100000
+    polySurface214:
+    - 100016
+    - 400016
+    polySurface211:
+    - 100018
+    - 400018
+    polySurface212:
+    - 100020
+    - 400020
+    transform34:
+    - 100022
+    - 400022
+    polySurface207:
+    - 100024
+    - 400024
+    transform21:
+    - 100026
+    - 400026
+    polySurface99:
+    - 100028
+    - 400028
+    polySurface98:
+    - 100030
+    - 400030
+    polySurface94:
+    - 100032
+    - 400032
+    polySurface93:
+    - 100034
+    - 400034
+    transform33:
+    - 100036
+    - 400036
+    polySurface65:
+    - 100038
+    - 400038
+    polySurface53:
+    - 100040
+    - 400040
+    - 3300000
+    - 2300000
+    polySurface50:
+    - 100042
+    - 400042
+    - 3300002
+    - 2300002
+    polySurface44:
+    - 100044
+    - 400044
+    - 3300004
+    - 2300004
+    polySurface43:
+    - 100046
+    - 400046
+    - 3300006
+    - 2300006
+    polySurface42:
+    - 100048
+    - 400048
+    - 3300008
+    - 2300008
+    polySurface41:
+    - 100050
+    - 400050
+    - 3300010
+    - 2300010
+    polySurface40:
+    - 100052
+    - 400052
+    - 3300012
+    - 2300012
+    polySurface31:
+    - 100054
+    - 400054
+    pCylinder15:
+    - 100056
+    - 400056
+    polySurface25:
+    - 100058
+    - 400058
+    polySurface24:
+    - 100060
+    - 400060
+    polySurface2:
+    - 100062
+    - 400062
+    pCylinder7:
+    - 100064
+    - 400064
+    group:
+    - 100066
+    - 400066
+    transform39:
+    - 100068
+    - 400068
+    transform40:
+    - 100070
+    - 400070
+    transform41:
+    - 100072
+    - 400072
+    transform42:
+    - 100074
+    - 400074
+    transform43:
+    - 100076
+    - 400076
+    transform44:
+    - 100078
+    - 400078
+    transform45:
+    - 100080
+    - 400080
+    transform46:
+    - 100082
+    - 400082
+    transform47:
+    - 100084
+    - 400084
+    transform48:
+    - 100086
+    - 400086
+    transform49:
+    - 100088
+    - 400088
+    transform50:
+    - 100090
+    - 400090
+    transform51:
+    - 100092
+    - 400092
+    transform52:
+    - 100094
+    - 400094
+    transform53:
+    - 100096
+    - 400096
+    transform54:
+    - 100098
+    - 400098
+    transform55:
+    - 100100
+    - 400100
+    transform56:
+    - 100102
+    - 400102
+    transform57:
+    - 100104
+    - 400104
+    transform58:
+    - 100106
+    - 400106
+    unwrapping_03:unwrapping:joint1:
+    - 100108
+    - 400108
+    unwrapping_03:unwrapping:joint4:
+    - 100110
+    - 400110
+    unwrapping_03:unwrapping:joint3:
+    - 100112
+    - 400112
+    unwrapping_03:unwrapping:joint9:
+    - 100114
+    - 400114
+    unwrapping_03:unwrapping:joint6:
+    - 100116
+    - 400116
+    unwrapping_03:unwrapping:joint5:
+    - 100118
+    - 400118
+    unwrapping_03:unwrapping:joint7:
+    - 100120
+    - 400120
+    unwrapping_03:unwrapping:joint8:
+    - 100122
+    - 400122
+    unwrapping_03:unwrapping:joint2:
+    - 100124
+    - 400124
+    unwrapping_03:unwrapping:nurbsCircle69:
+    - 100126
+    - 400126
+    unwrapping_03:unwrapping:nurbsCircle53:
+    - 100128
+    - 400128
+    unwrapping_03:unwrapping:nurbsCircle62:
+    - 100130
+    - 400130
+    unwrapping_03:unwrapping:nurbsCircle43:
+    - 100132
+    - 400132
+    unwrapping_03:unwrapping:Arc:transform2:
+    - 100134
+    - 400134
+    unwrapping_04:unwrapping:nurbsCircle46:
+    - 100136
+    - 400136
+    unwrapping_03:unwrapping:nurbsCircle56:
+    - 100138
+    - 400138
+    unwrapping_03:unwrapping:nurbsCircle66:
+    - 100140
+    - 400140
+    unwrapping_03:unwrapping:polySurface38:
+    - 100142
+    - 400142
+    unwrapping_03:unwrapping:nurbsCircle36:
+    - 100144
+    - 400144
+    unwrapping_03:unwrapping:nurbsCircle47:
+    - 100146
+    - 400146
+    unwrapping_04:unwrapping:nurbsCircle44:
+    - 100148
+    - 400148
+    unwrapping_03:unwrapping:nurbsCircle52:
+    - 100150
+    - 400150
+    unwrapping_03:unwrapping:nurbsCircle49:
+    - 100152
+    - 400152
+    unwrapping_03:unwrapping:nurbsCircle64:
+    - 100154
+    - 400154
+    unwrapping_03:unwrapping:nurbsCircle35:
+    - 100156
+    - 400156
+    unwrapping_03:unwrapping:nurbsCircle65:
+    - 100158
+    - 400158
+    unwrapping_03:unwrapping:nurbsCircle57:
+    - 100160
+    - 400160
+    unwrapping_03:unwrapping:nurbsCircle45:
+    - 100162
+    - 400162
+    unwrapping_03:unwrapping:nurbsCircle46:
+    - 100164
+    - 400164
+    unwrapping_03:unwrapping:pCylinder17:
+    - 100166
+    - 400166
+    unwrapping_03:unwrapping:nurbsCircle40:
+    - 100168
+    - 400168
+    unwrapping_03:unwrapping:nurbsCircle51:
+    - 100170
+    - 400170
+    unwrapping_03:unwrapping:nurbsCircle54:
+    - 100172
+    - 400172
+    unwrapping_03:unwrapping:nurbsCircle55:
+    - 100174
+    - 400174
+    unwrapping_04:unwrapping:nurbsCircle45:
+    - 100176
+    - 400176
+    unwrapping_03:unwrapping:nurbsCircle39:
+    - 100178
+    - 400178
+    unwrapping_03:unwrapping:nurbsCircle63:
+    - 100180
+    - 400180
+    unwrapping_03:unwrapping:polySurface40:
+    - 100182
+    - 400182
+    unwrapping_03:unwrapping:nurbsCircle38:
+    - 100184
+    - 400184
+    unwrapping_03:unwrapping:polySurface39:
+    - 100186
+    - 400186
+    unwrapping_03:unwrapping:nurbsCircle61:
+    - 100188
+    - 400188
+    unwrapping_04:unwrapping:nurbsCircle47:
+    - 100190
+    - 400190
+    unwrapping_03:unwrapping:nurbsCircle34:
+    - 100192
+    - 400192
+    unwrapping_03:unwrapping:Arc:pCube1:
+    - 100194
+    - 400194
+    unwrapping_03:unwrapping:nurbsCircle37:
+    - 100196
+    - 400196
+    unwrapping_03:unwrapping:nurbsCircle70:
+    - 100198
+    - 400198
+    unwrapping_03:unwrapping:nurbsCircle67:
+    - 100200
+    - 400200
+    unwrapping_03:unwrapping:nurbsCircle59:
+    - 100202
+    - 400202
+    unwrapping_03:unwrapping:nurbsCircle68:
+    - 100204
+    - 400204
+    unwrapping_03:unwrapping:nurbsCircle60:
+    - 100206
+    - 400206
+    unwrapping_03:unwrapping:nurbsCircle58:
+    - 100208
+    - 400208
+    unwrapping_03:unwrapping:polySurface44:
+    - 100210
+    - 400210
+    unwrapping_03:unwrapping:polySurface43:
+    - 100212
+    - 400212
+    unwrapping_03:unwrapping:polySurface50:
+    - 100214
+    - 400214
+    unwrapping_03:unwrapping:polySurface49:
+    - 100216
+    - 400216
+    unwrapping_03:unwrapping:polySurface52:
+    - 100218
+    - 400218
+    unwrapping_03:unwrapping:polySurface51:
+    - 100220
+    - 400220
+    unwrapping_03:unwrapping:polySurface42:
+    - 100222
+    - 400222
+    unwrapping_03:unwrapping:polySurface41:
+    - 100224
+    - 400224
+    unwrapping_03:unwrapping:polySurface48:
+    - 100226
+    - 400226
+    unwrapping_03:unwrapping:polySurface47:
+    - 100228
+    - 400228
+    unwrapping_03:unwrapping:polySurface46:
+    - 100230
+    - 400230
+    unwrapping_03:unwrapping:polySurface45:
+    - 100232
+    - 400232
+    unwrapping_03:unwrapping:Arc:transform1:
+    - 100234
+    - 400234
+    unwrapping_03:unwrapping:Arc:pCylinder1:
+    - 100236
+    - 400236
+    unwrapping_03:unwrapping:polySurface1:
+    - 100238
+    - 400238
+    unwrapping_03:unwrapping:Arc:pCube6:
+    - 100240
+    - 400240
+    unwrapping_03:unwrapping:polySurface33:
+    - 100242
+    - 400242
+    unwrapping_03:unwrapping:polySurface32:
+    - 100244
+    - 400244
+    unwrapping_03:unwrapping:polySurface35:
+    - 100246
+    - 400246
+    unwrapping_03:unwrapping:polySurface34:
+    - 100248
+    - 400248
+    unwrapping_03:unwrapping:polySurface37:
+    - 100250
+    - 400250
+    unwrapping_03:unwrapping:polySurface36:
+    - 100252
+    - 400252
+    unwrapping_03:unwrapping:nurbsCircle41:
+    - 100254
+    - 400254
+    unwrapping_03:unwrapping:nurbsCircle42:
+    - 100256
+    - 400256
+    unwrapping_03:unwrapping:nurbsCircle44:
+    - 100258
+    - 400258
+    unwrapping_03:unwrapping:joint10:
+    - 100260
+    - 400260
+    unwrapping_03:unwrapping:joint53:
+    - 100262
+    - 400262
+    unwrapping_03:unwrapping:joint52:
+    - 100264
+    - 400264
+    unwrapping_03:unwrapping:joint51:
+    - 100266
+    - 400266
+    unwrapping_03:unwrapping:joint50:
+    - 100268
+    - 400268
+    unwrapping_03:unwrapping:joint49:
+    - 100270
+    - 400270
+    unwrapping_03:unwrapping:joint48:
+    - 100272
+    - 400272
+    unwrapping_03:unwrapping:joint47:
+    - 100274
+    - 400274
+    unwrapping_03:unwrapping:joint46:
+    - 100276
+    - 400276
+    unwrapping_03:unwrapping:joint45:
+    - 100278
+    - 400278
+    unwrapping_03:unwrapping:joint44:
+    - 100280
+    - 400280
+    unwrapping_03:unwrapping:joint43:
+    - 100282
+    - 400282
+    unwrapping_03:unwrapping:joint42:
+    - 100284
+    - 400284
+    unwrapping_03:unwrapping:Left_Thumb:
+    - 100286
+    - 400286
+    unwrapping_03:unwrapping:joint40:
+    - 100288
+    - 400288
+    unwrapping_03:unwrapping:Left_FingerJoint2:
+    - 100290
+    - 400290
+    unwrapping_03:unwrapping:Left_FingerJoint1:
+    - 100292
+    - 400292
+    unwrapping_03:unwrapping:Left_Wrist:
+    - 100294
+    - 400294
+    unwrapping_03:unwrapping:Left_Forearm:
+    - 100296
+    - 400296
+    unwrapping_03:unwrapping:Left_Shoulder:
+    - 100298
+    - 400298
+    unwrapping_03:unwrapping:joint17:
+    - 100300
+    - 400300
+    unwrapping_03:unwrapping:joint13:
+    - 100302
+    - 400302
+    unwrapping_03:unwrapping:joint12:
+    - 100304
+    - 400304
+    unwrapping_03:unwrapping:polySurface56:
+    - 100306
+    - 400306
+    unwrapping_03:unwrapping:polySurface55:
+    - 100308
+    - 400308
+    unwrapping_03:unwrapping:joint34:
+    - 100310
+    - 400310
+    unwrapping_03:unwrapping:polySurface57:
+    - 100312
+    - 400312
+    unwrapping_03:unwrapping:polySurface54:
+    - 100314
+    - 400314
+    unwrapping_03:unwrapping:polySurface53:
+    - 100316
+    - 400316
+    unwrapping_03:unwrapping:joint16:
+    - 100318
+    - 400318
+    unwrapping_03:unwrapping:joint15:
+    - 100320
+    - 400320
+    transform59:
+    - 100322
+    - 400322
+    transform60:
+    - 100324
+    - 400324
+    transform61:
+    - 100326
+    - 400326
+    transform62:
+    - 100328
+    - 400328
+    transform63:
+    - 100330
+    - 400330
+    transform64:
+    - 100332
+    - 400332
+    transform65:
+    - 100334
+    - 400334
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface40
+    4300002: polySurface41
+    4300004: polySurface42
+    4300006: polySurface43
+    4300008: polySurface44
+    4300010: polySurface50
+    4300012: polySurface53
+    7400000: Take 001 //// Arc_ANIMATED

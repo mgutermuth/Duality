@@ -1,0 +1,274 @@
+fileFormatVersion: 1
+guid: 46d42cc1a228dc84c8886aefe1ce24ea
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    polySurface270:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    transform32:
+    - 100004
+    - 400004
+    polySurface265:
+    - 100006
+    - 400006
+    transform31:
+    - 100008
+    - 400008
+    transform33:
+    - 100010
+    - 400010
+    polySurface269:
+    - 100012
+    - 400012
+    transform34:
+    - 100014
+    - 400014
+    polySurface268:
+    - 100016
+    - 400016
+    transform35:
+    - 100018
+    - 400018
+    polySurface267:
+    - 100020
+    - 400020
+    transform36:
+    - 100022
+    - 400022
+    polySurface266:
+    - 100024
+    - 400024
+    polySurface264:
+    - 100026
+    - 400026
+    transform30:
+    - 100028
+    - 400028
+    polySurface263:
+    - 100030
+    - 400030
+    transform25:
+    - 100032
+    - 400032
+    pCube3:
+    - 100034
+    - 400034
+    transform26:
+    - 100036
+    - 400036
+    pCube2:
+    - 100038
+    - 400038
+    transform27:
+    - 100040
+    - 400040
+    pCube1:
+    - 100042
+    - 400042
+    transform13:
+    - 100044
+    - 400044
+    transform22:
+    - 100046
+    - 400046
+    polySurface262:
+    - 100048
+    - 400048
+    transform18:
+    - 100050
+    - 400050
+    polySurface261:
+    - 100052
+    - 400052
+    transform29:
+    - 100054
+    - 400054
+    polySurface260:
+    - 100056
+    - 400056
+    transform15:
+    - 100058
+    - 400058
+    polySurface259:
+    - 100060
+    - 400060
+    transform20:
+    - 100062
+    - 400062
+    polySurface258:
+    - 100064
+    - 400064
+    transform21:
+    - 100066
+    - 400066
+    polySurface257:
+    - 100068
+    - 400068
+    transform17:
+    - 100070
+    - 400070
+    polySurface256:
+    - 100072
+    - 400072
+    transform14:
+    - 100074
+    - 400074
+    polySurface255:
+    - 100076
+    - 400076
+    transform23:
+    - 100078
+    - 400078
+    polySurface254:
+    - 100080
+    - 400080
+    transform19:
+    - 100082
+    - 400082
+    polySurface253:
+    - 100084
+    - 400084
+    transform24:
+    - 100086
+    - 400086
+    polySurface252:
+    - 100088
+    - 400088
+    transform16:
+    - 100090
+    - 400090
+    polySurface251:
+    - 100092
+    - 400092
+    polySurface250:
+    - 100094
+    - 400094
+    transform1:
+    - 100096
+    - 400096
+    polySurface249:
+    - 100098
+    - 400098
+    transform2:
+    - 100100
+    - 400100
+    polySurface248:
+    - 100102
+    - 400102
+    transform3:
+    - 100104
+    - 400104
+    polySurface247:
+    - 100106
+    - 400106
+    transform4:
+    - 100108
+    - 400108
+    polySurface246:
+    - 100110
+    - 400110
+    transform5:
+    - 100112
+    - 400112
+    polySurface245:
+    - 100114
+    - 400114
+    transform6:
+    - 100116
+    - 400116
+    polySurface244:
+    - 100118
+    - 400118
+    transform7:
+    - 100120
+    - 400120
+    polySurface243:
+    - 100122
+    - 400122
+    transform8:
+    - 100124
+    - 400124
+    polySurface242:
+    - 100126
+    - 400126
+    transform9:
+    - 100128
+    - 400128
+    polySurface241:
+    - 100130
+    - 400130
+    transform10:
+    - 100132
+    - 400132
+    polySurface240:
+    - 100134
+    - 400134
+    transform11:
+    - 100136
+    - 400136
+    polySurface239:
+    - 100138
+    - 400138
+    transform12:
+    - 100140
+    - 400140
+    polySurface238:
+    - 100142
+    - 400142
+    transform28:
+    - 100144
+    - 400144
+    curve4:
+    - 100146
+    - 400146
+    polySurface237:
+    - 100148
+    - 400148
+    curve3:
+    - 100150
+    - 400150
+    polySurface233:
+    - 100152
+    - 400152
+    curve2:
+    - 100154
+    - 400154
+    polySurface231:
+    - 100156
+    - 400156
+    curve1:
+    - 100158
+    - 400158
+    polySurface229:
+    - 100160
+    - 400160
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface270

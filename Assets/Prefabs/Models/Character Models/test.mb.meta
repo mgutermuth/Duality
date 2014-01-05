@@ -1,0 +1,490 @@
+fileFormatVersion: 1
+guid: d5e8236b61e01924793e3e4ea3fa9aaa
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 1
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      run:
+        firstFrame: 1
+        lastFrame: 23
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    Left_FingerJoint2:
+    - 100000
+    - 400000
+    Left_FingerJoint1:
+    - 100002
+    - 400002
+    joint31:
+    - 100004
+    - 400004
+    joint30:
+    - 100006
+    - 400006
+    joint29:
+    - 100008
+    - 400008
+    joint28:
+    - 100010
+    - 400010
+    joint27:
+    - 100012
+    - 400012
+    joint26:
+    - 100014
+    - 400014
+    joint17:
+    - 100016
+    - 400016
+    joint16:
+    - 100018
+    - 400018
+    joint15:
+    - 100020
+    - 400020
+    joint13:
+    - 100022
+    - 400022
+    joint12:
+    - 100024
+    - 400024
+    joint11:
+    - 100026
+    - 400026
+    polySurface31:
+    - 100028
+    - 400028
+    - 13700000
+    transform1:
+    - 100030
+    - 400030
+    polySurface57:
+    - 100032
+    - 400032
+    polySurface1:
+    - 100034
+    - 400034
+    Arc:pCube6:
+    - 100036
+    - 400036
+    Arc:pCylinder34:
+    - 100038
+    - 400038
+    - 3300000
+    - 2300000
+    Arc:pCylinder31:
+    - 100040
+    - 400040
+    - 3300002
+    - 2300002
+    Arc:transform1:
+    - 100042
+    - 400042
+    Arc:pCylinder1:
+    - 100044
+    - 400044
+    Arc:transform2:
+    - 100046
+    - 400046
+    Arc:pCube1:
+    - 100048
+    - 400048
+    nurbsCircle60:
+    - 100050
+    - 400050
+    nurbsCircle68:
+    - 100052
+    - 400052
+    persp1:
+    - 100054
+    - 400054
+    nurbsCircle59:
+    - 100056
+    - 400056
+    nurbsCircle58:
+    - 100058
+    - 400058
+    //RootNode:
+    - 100060
+    - 400060
+    - 11100000
+    pCylinder17:
+    - 100062
+    - 400062
+    - 13700002
+    nurbsCircle67:
+    - 100064
+    - 400064
+    nurbsCircle66:
+    - 100066
+    - 400066
+    nurbsCircle65:
+    - 100068
+    - 400068
+    nurbsCircle64:
+    - 100070
+    - 400070
+    nurbsCircle63:
+    - 100072
+    - 400072
+    nurbsCircle61:
+    - 100074
+    - 400074
+    nurbsCircle62:
+    - 100076
+    - 400076
+    nurbsCircle54:
+    - 100078
+    - 400078
+    nurbsCircle53:
+    - 100080
+    - 400080
+    nurbsCircle51:
+    - 100082
+    - 400082
+    nurbsCircle57:
+    - 100084
+    - 400084
+    nurbsCircle56:
+    - 100086
+    - 400086
+    nurbsCircle55:
+    - 100088
+    - 400088
+    nurbsCircle52:
+    - 100090
+    - 400090
+    nurbsCircle49:
+    - 100092
+    - 400092
+    nurbsCircle70:
+    - 100094
+    - 400094
+    nurbsCircle69:
+    - 100096
+    - 400096
+    nurbsCircle47:
+    - 100098
+    - 400098
+    nurbsCircle46:
+    - 100100
+    - 400100
+    nurbsCircle45:
+    - 100102
+    - 400102
+    nurbsCircle35:
+    - 100104
+    - 400104
+    nurbsCircle36:
+    - 100106
+    - 400106
+    nurbsCircle39:
+    - 100108
+    - 400108
+    nurbsCircle40:
+    - 100110
+    - 400110
+    nurbsCircle43:
+    - 100112
+    - 400112
+    nurbsCircle34:
+    - 100114
+    - 400114
+    nurbsCircle37:
+    - 100116
+    - 400116
+    nurbsCircle38:
+    - 100118
+    - 400118
+    nurbsCircle41:
+    - 100120
+    - 400120
+    nurbsCircle42:
+    - 100122
+    - 400122
+    nurbsCircle44:
+    - 100124
+    - 400124
+    nurbsCircle32:
+    - 100126
+    - 400126
+    nurbsCircle31:
+    - 100128
+    - 400128
+    nurbsCircle27:
+    - 100130
+    - 400130
+    nurbsCircle28:
+    - 100132
+    - 400132
+    nurbsCircle26:
+    - 100134
+    - 400134
+    nurbsCircle23:
+    - 100136
+    - 400136
+    nurbsCircle22:
+    - 100138
+    - 400138
+    nurbsCircle19:
+    - 100140
+    - 400140
+    nurbsCircle18:
+    - 100142
+    - 400142
+    nurbsCircle15:
+    - 100144
+    - 400144
+    nurbsCircle30:
+    - 100146
+    - 400146
+    nurbsCircle29:
+    - 100148
+    - 400148
+    nurbsCircle25:
+    - 100150
+    - 400150
+    nurbsCircle24:
+    - 100152
+    - 400152
+    nurbsCircle21:
+    - 100154
+    - 400154
+    nurbsCircle20:
+    - 100156
+    - 400156
+    nurbsCircle17:
+    - 100158
+    - 400158
+    nurbsCircle16:
+    - 100160
+    - 400160
+    nurbsCircle14:
+    - 100162
+    - 400162
+    nurbsCircle13:
+    - 100164
+    - 400164
+    nurbsCircle12:
+    - 100166
+    - 400166
+    nurbsCircle6:
+    - 100168
+    - 400168
+    nurbsCircle7:
+    - 100170
+    - 400170
+    nurbsCircle8:
+    - 100172
+    - 400172
+    nurbsCircle9:
+    - 100174
+    - 400174
+    nurbsCircle10:
+    - 100176
+    - 400176
+    nurbsCircle1:
+    - 100178
+    - 400178
+    nurbsCircle2:
+    - 100180
+    - 400180
+    nurbsCircle3:
+    - 100182
+    - 400182
+    nurbsCircle4:
+    - 100184
+    - 400184
+    nurbsCircle5:
+    - 100186
+    - 400186
+    nurbsCircle11:
+    - 100188
+    - 400188
+    joint10 1:
+    - 100190
+    - 400190
+    joint9 1:
+    - 100192
+    - 400192
+    joint8 1:
+    - 100194
+    - 400194
+    joint7 1:
+    - 100196
+    - 400196
+    joint6 1:
+    - 100198
+    - 400198
+    joint5 1:
+    - 100200
+    - 400200
+    joint4 1:
+    - 100202
+    - 400202
+    joint3 1:
+    - 100204
+    - 400204
+    joint2 1:
+    - 100206
+    - 400206
+    joint1 1:
+    - 100208
+    - 400208
+    joint53:
+    - 100210
+    - 400210
+    joint52:
+    - 100212
+    - 400212
+    joint51:
+    - 100214
+    - 400214
+    joint50:
+    - 100216
+    - 400216
+    joint49:
+    - 100218
+    - 400218
+    joint48:
+    - 100220
+    - 400220
+    joint47:
+    - 100222
+    - 400222
+    joint46:
+    - 100224
+    - 400224
+    joint45:
+    - 100226
+    - 400226
+    joint44:
+    - 100228
+    - 400228
+    joint43:
+    - 100230
+    - 400230
+    joint42:
+    - 100232
+    - 400232
+    Left_Thumb:
+    - 100234
+    - 400234
+    joint40:
+    - 100236
+    - 400236
+    Left_Wrist:
+    - 100238
+    - 400238
+    Left_Forearm:
+    - 100240
+    - 400240
+    Left_Shoulder:
+    - 100242
+    - 400242
+    joint17 1:
+    - 100244
+    - 400244
+    joint16 1:
+    - 100246
+    - 400246
+    joint15 1:
+    - 100248
+    - 400248
+    joint13 1:
+    - 100250
+    - 400250
+    joint12 1:
+    - 100252
+    - 400252
+    joint34:
+    - 100254
+    - 400254
+    joint10:
+    - 100256
+    - 400256
+    joint9:
+    - 100258
+    - 400258
+    joint8:
+    - 100260
+    - 400260
+    joint7:
+    - 100262
+    - 400262
+    joint6:
+    - 100264
+    - 400264
+    joint5:
+    - 100266
+    - 400266
+    joint4:
+    - 100268
+    - 400268
+    joint3:
+    - 100270
+    - 400270
+    joint2:
+    - 100272
+    - 400272
+    joint1:
+    - 100274
+    - 400274
+    joint25:
+    - 100276
+    - 400276
+    joint24:
+    - 100278
+    - 400278
+    joint23:
+    - 100280
+    - 400280
+    joint22:
+    - 100282
+    - 400282
+    joint21:
+    - 100284
+    - 400284
+    joint20:
+    - 100286
+    - 400286
+    joint19:
+    - 100288
+    - 400288
+    joint18:
+    - 100290
+    - 400290
+    joint33:
+    - 100292
+    - 400292
+    joint32:
+    - 100294
+    - 400294
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Arc:pCylinder31
+    4300002: Arc:pCylinder34
+    4300004: polySurface31
+    4300006: pCylinder17
+    7400000: Take 001 //// test
+    7400002: run //// test
